@@ -1,5 +1,5 @@
 # Visao Computacional
-Alunos (Grupo 13): 
+Alunos (Grupo 13 - Componentes - Detectron2): 
 
       - Angélica Siqueira de Souza
       - Marcelo Fernando Rauber
