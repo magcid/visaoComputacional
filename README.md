@@ -1,5 +1,5 @@
 # Visao Computacional
-Alunos: 
+Alunos (Grupo 13): 
 
       - Angélica Siqueira de Souza
       - Marcelo Fernando Rauber
